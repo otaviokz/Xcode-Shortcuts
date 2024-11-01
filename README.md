@@ -10,6 +10,15 @@
 ---
 <br>
 
+**0. Show Emojis**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Just press
+
+```sh
+(Command + Control + Space) ************************* (⌘ + ⌃ + -)
+```
+<br>
+
+
 
 **1. Add Documentation To Your Code**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Put cursor on name or method and press
